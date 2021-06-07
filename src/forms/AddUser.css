@@ -1,0 +1,14 @@
+li,
+ul {
+  color: red;
+}
+form {
+  background-color: rgb(72, 235, 172);
+  border-radius: 10%;
+  padding: 10%;
+  width: 50%;
+}
+h1,
+p {
+  margin-left: 22rem;
+}
